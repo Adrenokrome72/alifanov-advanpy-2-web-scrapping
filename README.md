@@ -1,1 +1,1 @@
-# alifanov-advanpy-2-web-scrapping
+>Домашнее задание к лекции 6.«Web-scrapping»
